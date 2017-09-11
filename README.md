@@ -1,4 +1,4 @@
-# ajax_in_django
+# Using AJAX In Django
 
 This small project shows how to use AJAX call in DJANGO.
 
@@ -8,7 +8,6 @@ the username is available or not by making an AJAX call to the server.
 
 
 
-Complete Article Link : http://thepythondjango.com/how-to-use-ajax-in-django-project
-
+Complete Article Link : http://thepythondjango.com/how-to-use-ajax-in-django-project  
 Youtube Video Link : https://www.youtube.com/watch?v=GP4rHD28DoE
 
