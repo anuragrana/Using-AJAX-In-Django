@@ -8,6 +8,6 @@ the username is available or not by making an AJAX call to the server.
 
 
 
-Complete Article Link : http://thepythondjango.com/how-to-use-ajax-in-django-project  
+Complete Article Link : https://www.pythoncircle.com/post/130/how-to-use-ajax-with-django/  
 Youtube Video Link : https://www.youtube.com/watch?v=GP4rHD28DoE
 
